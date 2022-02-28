@@ -1,0 +1,25 @@
+segment_sources:
+  P74B06531:
+    type: origin_type
+    relation: translation
+    language: en
+  P997D7C8B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  255451287dbd409f96d1a7efe2c7d839:
+    P74B06531: b3f2f46fba704f7e828b43a299c469d4
+    P997D7C8B: 34276ce13e994129a9256732c8bf1b1d
+  6c763e2457de4ee182d45cefc0a058d4:
+    P74B06531: ccb82af3d1104302ae9bc80f724c9e8f
+    P997D7C8B: 999f6386735a4055b6b3f937ca529495
+  f2044689c979436bb3a8fe1b9fd4c5b3:
+    P74B06531: 6215ab7057a64f2f9ca7fd4efc37c452
+    P997D7C8B: f4153705bd764789874fc0b41cdd1862
+  d6b41662f75e4b20b8a3f36afda603b7:
+    P74B06531: 1bd80f88be2d4292820ede7ae69fa3c7
+    P997D7C8B: 432dbc7629d043918ea365d507ff98e4
+  93b549d2a91f4c6087d69d154839c4fe:
+    P74B06531: cbc8c76cc63a4acf835b6b1722279ad0
+    P997D7C8B: 3b96b51fddb542eda6f8df72d09625a1
